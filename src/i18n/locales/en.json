@@ -1,0 +1,448 @@
+{
+    "sign_up": {
+        "create_account": "Create Account",
+        "description": "Join Coraly and transform your real estate business",
+        "message_success": " Account created successfully! Please check your email to verify your account.",
+        "message_error": "Email already in use",
+        "success_login": "Login successful! Redirecting to dashboard...",
+        "error_login": "Login failed. Please try again.",
+        "full_name": "Full Name",
+        "email_address": " Email Address",
+        "password": "Password",
+        "confirm_password": "Confirm Password",
+        "terms": " I agree to the",
+        "terms_conditions": "Terms and Conditions",
+        "creating_account": "Creating Account...",
+        "already_have_an_account": "Already have an account?",
+        "sign_in_here": "Sign in here",
+        "enter_name": "Enter your full name",
+        "enter_email": "Enter your email address",
+        "enter_password": "Create a strong password",
+        "enter_confirm_password": "Confirm your password",
+        "enter_your_password": "Enter your password",
+        "signing_in": "Signing In...",
+        "sign_in": "Sign In",
+        "dont_have_an_account": "Don't have an account?",
+        "sign_up_here": "Sign up here",
+        "login_description": "Sign in to your Coraly account",
+        "validation": {
+            "name": {
+                "min": "Name must be at least 2 characters",
+                "max": "Name must be less than 50 characters"
+            },
+            "email": {
+                "invalid": "Please enter a valid email address"
+            },
+            "password": {
+                "min": "Password must be at least 8 characters",
+                "required": "Password is required"
+            },
+            "confirmPassword": {
+                "mismatch": "Passwords don't match"
+            },
+            "acceptTerms": {
+                "required": "You must accept the terms and conditions"
+            }
+        }
+    },
+    "terms_condition": {
+        "header_terms_conditions": "CORALYTICS Terms and Conditions",
+        "description_terms": "We at CORALYTICS, a platform owned and operated by Coralytics International LLC, hereinafter referred to as \"CORALYTICS,\" \"we,\" \"us,\" or \"our,\" take your privacy seriously and are committed to protecting your personal information. This Privacy Policy (\"Policy\") describes how we collect, use, and disclose your personal information when you use the CORALYTICS website, mobile application, and all related services (collectively, the \"Services\").",
+        "get_started": "Get Started",
+        "introduction": "Introduction",
+        "desc_introduction": "We at CORALYTICS, a platform owned and operated by Coralytics International LLC, hereinafter referred to as \"CORALYTICS,\" \"we,\" \"us,\" or \"our,\" take your privacy seriously and are committed to protecting your personal information. This Privacy Policy (\"Policy\") describes how we collect, use, and disclose your personal information when you use the CORALYTICS website, mobile application, and all related services (collectively, the \"Services\").",
+        "Acceptance_Terms": "Acceptance of Terms",
+        "accessing_or_using_services": "By accessing or using the Services, you agree to be bound by these Terms. If you disagree with any part of these Terms, you may not use the Services. You represent and warrant that you are of legal age to enter into this agreement and have the full authority to do so.",
+        "account_registration_use": "Account Registration and Use",
+        "access_certain_features_of_services": "To access certain features of the Services, you may need to create an account. You are responsible for maintaining the confidentiality of your account information, including your password, and for all activity that occurs under your account. You agree to notify us immediately of any unauthorized use of your account or any other breach of security. We cannot and will not be liable for any loss or damage arising from your failure to comply with these obligations.",
+        "user_content": "User Content",
+        "services_may_allow_you_to_submit": "The Services may allow you to submit, upload, or post content (\"User Content\"). You retain all ownership rights to your User Content, but you grant us a non-exclusive, worldwide, perpetual, royalty-free license to use, reproduce, modify, publish, distribute, and display your User Content in connection with the Services. You represent and warrant that your User Content does not violate the rights of any third party and that you have all necessary permissions to grant us the licenses herein.",
+        "prohibited_content_activities": "Prohibited Content and Activities",
+        "uploading_posting_transmitting": "Uploading, posting, or transmitting any content that is illegal, harmful, threatening, abusive, harassing, defamatory, vulgar, obscene, hateful, or racially or ethnically offensive.",
+        "impersonating_person_entity": "Impersonating any person or entity, including us or our employees or representatives.",
+        "interfering_with_disrupting": "Interfering with or disrupting the Services or any servers or networks connected to the Services.",
+        "using_the_ervices_to_exploit": "Using the Services to exploit, harm, or defraud others.",
+        "violating_any_intellectual_property": "Violating any intellectual property rights or other rights of any third party.",
+        "attempting_to_gain_unauthorized": "Attempting to gain unauthorized access to the Services or any part thereof.",
+        "reserve_the_right_to_terminate": "We reserve the right to terminate your access to the Services for any reason, at any time, without notice.",
+        "intellectual_property": "Intellectual Property",
+        "the_services_and_their_content": "The Services and their content, including but not limited to text, graphics, logos, trademarks, and software, are owned by us or our licensors and are protected by intellectual property laws. You may not use any of our intellectual property without our express written permission.",
+        "disclaimer_of_warranties": "Disclaimer of Warranties",
+        "the_services_are_provided": "The Services are provided \"as is\" and without warranty of any kind, express or implied. We disclaim all warranties, including, but not limited to, warranties of merchantability, fitness for a particular purpose, and non-infringement. We do not warrant that the Services will be uninterrupted or error-free, or that any defects will be corrected.",
+        "limitation_of_liability": "Limitation of Liability",
+        "the_maximum_extent_permitted": "To the maximum extent permitted by law, we will not be liable for any direct, indirect, incidental, consequential, or punitive damages arising out of or in connection with the use of the Services, even if we have been advised of the possibility of such damages.",
+        "indemnification": "Indemnification",
+        "you_agree_to_indemnify_and_hold_us_harmless": "You agree to indemnify and hold us harmless from and against any and all claims, losses, damages, liabilities, costs, and expenses (including attorneys' fees) arising out of or in connection with your use of the Services or your violation of these Terms.",
+        "governing_law_and_dispute": "Governing Law and Dispute Resolution",
+        "terms_shall_be_governed": "These Terms shall be governed by and construed in accordance with the laws of the United Arab Emirates, without regard to its conflict of laws provisions. Any dispute arising out of or in connection with these Terms shall be submitted to the exclusive jurisdiction of the courts of Dubai, United Arab Emirates.",
+        "entire_agreement": "Entire Agreement",
+        "terms_constitute_the_entire_agreement": "These Terms constitute the entire agreement between you and us with respect to your use of the Services. Any prior or contemporaneous agreements, representations, and understandings, whether written or oral, are superseded by these Terms.",
+        "amendments": "Amendments",
+        "we_reserve_the_right_to_amend": "We reserve the right to amend these Terms at any time by posting the amended Terms on the Services. You are responsible for reviewing the Terms regularly. Your continued use of the Services after the posting of amended Terms constitutes your acceptance of such amendments.",
+        "contact_us": "13. Contact Us",
+        "if_you_have_any_questions_about_these": "If you have any questions about these Terms, please contact us at",
+        "date_of_last_update": "Date of Last Update:",
+        "increase_your_roi_with": "increase your ROI with Coralytics",
+        "let_s_talk_to_us": "Let’s talk to us, share your dream projects and we will transform it into reality"
+    },
+    "privacy_policy": {
+        "title": "Privacy Policy",
+        "subtitle": "At CORALYTICS, we take your privacy seriously and are committed to protecting your personal information. Learn how we collect, use, and safeguard your data.",
+        "lastUpdated": "Last updated: December 25, 2023",
+        "sections": {
+            "introduction": {
+                "title": "1. Introduction",
+                "content": "We at CORALYTICS, a platform owned and operated by Coralytics International LLC, hereinafter referred to as \"CORALYTICS,\" \"we,\" \"us,\" or \"our,\" take your privacy seriously and are committed to protecting your personal information. This Privacy Policy (\"Policy\") describes how we collect, use, and disclose your personal information when you use the CORALYTICS website, mobile application, and all related services (collectively, the \"Services\")."
+            },
+            "informationWeCollect": {
+                "title": "2. Information We Collect",
+                "content": "We collect various types of personal information from you when you use the Services, including:",
+                "pii": {
+                    "title": "Personally Identifiable Information (PII)",
+                    "description": "Information that can be used to identify you directly, such as your name, email address, phone number, mailing address, IP address, and device ID."
+                },
+                "npii": {
+                    "title": "Non-Personally Identifiable Information (NPII)",
+                    "description": "Information that cannot be used to identify you directly, such as your browser type, language preferences, usage data, and device information."
+                }
+            },
+            "howWeUse": {
+                "title": "3. How We Use Your Information",
+                "content": "We use your personal information for various purposes, including:",
+                "purposes": [
+                    "To provide and operate the Services",
+                    "To personalize your experience",
+                    "To send you important information about the Services and updates",
+                    "To respond to your inquiries and requests",
+                    "To improve the Services",
+                    "To analyze how you use the Services",
+                    "To comply with legal requirements"
+                ]
+            },
+            "howWeShare": {
+                "title": "4. How We Share Your Information",
+                "content": "We may share your personal information with third-party service providers who help us operate the Services. These service providers are bound by contractual obligations to keep your information confidential and to use it only for the purposes we authorize.",
+                "legal": "We may also disclose your personal information if required by law, such as in response to a court order or subpoena."
+            },
+            "yourChoices": {
+                "title": "5. Your Choices",
+                "content": "You have certain choices regarding your personal information, including:",
+                "choices": [
+                    "You can access and update your personal information in your account settings.",
+                    "You can unsubscribe from marketing emails by clicking the \"unsubscribe\" link in the email.",
+                    "You can delete your account by contacting us at info@coralytics.com"
+                ]
+            },
+            "dataSecurity": {
+                "title": "6. Data Security",
+                "content": "We take reasonable measures to protect your personal information from unauthorized access, disclosure, alteration, or destruction. However, no method of transmission over the internet or method of electronic storage is 100% secure. Therefore, we cannot guarantee the absolute security of your personal information."
+            },
+            "internationalTransfers": {
+                "title": "7. International Transfers",
+                "content": "Your personal information may be transferred to and stored in countries outside of your country. These countries may have different data protection laws than your country. By using the Services, you consent to the transfer of your personal information to these countries."
+            },
+            "childrensPrivacy": {
+                "title": "8. Children's Privacy",
+                "content": "The Services are not intended for children under the age of 13. We do not knowingly collect personal information from children under the age of 13. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact us at info@coralytics.com. We will take steps to remove the information from our systems."
+            },
+            "changesToPolicy": {
+                "title": "9. Changes to this Policy",
+                "content": "We may update this Policy from time to time. We will notify you of any changes by posting the new Policy on the Services. You are advised to review this Policy periodically for any changes."
+            },
+            "contactUs": {
+                "title": "10. Contact Us",
+                "content": "If you have any questions about this Policy, please contact us:",
+                "email": "info@coralytics.com"
+            }
+        },
+        "footer": {
+            "company": "CORALYTICS",
+            "tagline": "Your privacy is our priority",
+            "dateLabel": "Date of Last Update:"
+        }
+    },
+    "hero": {
+        "title_part1": "From Listing to",
+        "title_highlight": "Closing",
+        "title_part2": "in Half the Time",
+        "closing": "Closing",
+        "subtitle": "Stop managing technology. Start building relationships. Coraly handles the busywork so you can focus on deals.",
+        "benefit1": "Reclaim 20+ hours every week",
+        "benefit2": "Win 3x more instructions",
+        "benefit3": "Close deals faster than ever",
+        "socialProof": "Used by agents worldwide",
+        "cta": "See Your First Listing Transform",
+        "disclaimer": "*Results based on user reports and may vary depending on market conditions, property type, and individual usage. Past performance does not guarantee future results.",
+        "imgAlt": "Before and after: Stressed agent vs successful agent closing deals",
+        "floating1": "Faster",
+        "floating2": "Closings*",
+        "saved": "saved/week*",
+        "23hrs": "23hrs"
+    },
+    "socialProof": {
+        "title": "Join 1,200+ Real Estate Professionals Who've Reclaimed Their Time",
+        "subtitle": "Used by top agents and agencies across Dubai, London, and beyond",
+        "countries": "Countries Supported",
+        "listingsProcessed": "Listings processed this year",
+        "imagesProcessed": "Images processed"
+    },
+    "CRMIntegration": {
+        "yourCRM": "Your CRM",
+        "keepUsing": "Keep using what you love",
+        "aiEnhancement": "Coraly AI Enhancement",
+        "aiProcesses": "AI processes and enhances",
+        "globalPublishing": "Global Publishing",
+        "distribute": "Distribute everywhere",
+        "leadsBack": "Leads Back to CRM",
+        "qualifiedLeads": "Qualified leads return",
+        "integratesWith": "Integrates with",
+        "yourWorkflow": "Your Existing Workflow",
+        "keepUsingCRM": "Keep using the CRM you love - Coraly enhances what you already have",
+        "worksWith": "Works with Leading CRM Platforms Internationally and Locally",
+        "seamlessIntegration": "Seamless Integration",
+        "biDirectional": "Bi-directional sync - Data flows both ways automatically",
+        "noMigration": "No migration needed - Keep your existing setup",
+        "realTime": "Real-time updates - Listings sync instantly",
+        "advancedFeatures": "Advanced Features",
+        "customMapping": "Custom field mapping - Match your CRM structure",
+        "apiAccess": "API access - For custom integrations",
+        "setupTime": "Dedicated Support",
+        "security": "Security",
+        "encryption": "Bank-level encryption",
+        "support": "Support",
+        "integrationSpecialist": "Dedicated integration specialist",
+        "customMappingTitle": "Custom mapping",
+        "uniqueCRM": "For unique CRM configurations",
+        "readyToConnect": "Ready to Connect Your CRM?",
+        "seeDemo": "See Integration Demo",
+        "contactTeam": "Contact Integration Team"
+    },
+    "coreFeatures": {
+        "heroTitle": "While Your Competitors Struggle With Manual Work,",
+        "heroHighlight": "You Could Be Closing 3x More Deals",
+        "oldWay": {
+            "title": "The Old Way",
+            "hoursPerListing": "6+ hours per listing",
+            "missingLeads": "Missing leads after hours",
+            "manualUploads": "Manual portal uploads",
+            "workingNights": "Working nights & weekends",
+            "hoursEffort": "Hours of effort"
+        },
+        "coralyWay": {
+            "title": "The Coraly Way",
+            "quickListing": "15 seconds per listing",
+            "alwaysCapture": "24/7 lead capture",
+            "oneClickPublish": "One-click global publishing",
+            "homeBy6": "Home by 6 PM daily",
+            "5seconds": "5 seconds"
+        },
+        "create": {
+            "title": "From Hours to Seconds: Professional Listings That Sell Faster",
+            "savedPerListing": "Saved per listing",
+            "professionalStaging": "Professional staging",
+            "fasterSales": "Faster sales",
+            "3Hours":"3 hours",
+            "15Seconds":"15 seconds",
+            "benefits": {
+                "staging15Sec": "Professional staging in 15 seconds",
+                "furnitureStyles": "40+ furniture styles available",
+                "lightingEnhancement": "Perfect lighting enhancement",
+                "anyPhotoQuality": "Works with any photo quality"
+            },
+            "cta": "See The Magic",
+            "before": "Before",
+            "after": "15 seconds later",
+            "stagingTime": "Professional staging time"
+        },
+        "publish": {
+            "title": "Maximum Exposure = Maximum Offers = Maximum Commissions",
+            "moreViews": "More views",
+            "portalsInSec": "Portals in 10 sec",
+            "monthlySearchers": "Monthly searchers",
+            "benefits": {
+                "instantPublishing": "Instant multi-portal publishing",
+                "autoOptimization": "Automatic format optimization",
+                "realTimeSync": "Real-time price sync",
+                "reachSearchers": "Reach 50M+ monthly searchers"
+            },
+            "cta": "Dominate My Market",
+            "publishingTime": "Publishing time",
+            "globalReach": "Global Reach",
+            "inquiriesFrom": "Inquiries from London, Dubai, Singapore"
+        },
+        "convert": {
+            "title": "Never Miss a Lead Again",
+            "subtitle": "AI answers, qualifies, and books appointments 24/7",
+            "responseTime": "Response time",
+            "moreQualifiedLeads": "More qualified leads",
+            "availability": "Availability",
+            "benefits": {
+                "quickResponse": "30-second response time, any hour",
+                "moreLeads": "60% more qualified leads outside business hours",
+                "autoBooking": "Automatic appointment booking while you sleep"
+            },
+            "testimonial": {
+                "quote": "I wake up to 3 qualified appointments every morning. It's like having a sales team that never sleeps.",
+                "author": "— Maria S., Dubai"
+            },
+            "cta": "Start Converting 24/7",
+            "whileSleeping": "While you were sleeping:",
+            "leadQualified": "Lead qualified & viewing booked",
+            "agentNotified": "Agent Ahmed notified for 8 AM",
+            "potentialDeal": "Potential: AED 4.2M deal"
+        },
+        "outcome": {
+            "title": "The Result: Agencies Growing",
+            "highlight": "3x Faster Than Competition",
+            "month1": "Month 1",
+            "month6": "Month 6 with Coraly",
+            "listings": "listings",
+            "revenue": "revenue",
+            "coralyEffect": "The Coraly Effect",
+            "startGrowth": "Start My Growth Engine",
+            "seeCaseStudies": "See Case Studies"
+        },
+        "transitions": {
+            "thenInstantly": "Then instantly...",
+            "whileYouSleep": "While you sleep..."
+        },
+        "demo": {
+            "aiStaging": "AI Staging Transformation",
+            "watchStaging": "Watch professional staging happen in real-time",
+            "emptyRoom": "Before: Empty Room",
+            "modernStyle": "After: Modern Style",
+            "processing": "AI Processing...",
+            "complete": "Complete",
+            "transformationComplete": "Transformation Complete!",
+            "professionalReady": "Professional listing ready in 15 seconds",
+            "savedVsTraditional": "Saved vs traditional",
+            "totalTime": "Total time",
+            "closeDemo": "Close Demo",
+            "startTrial": "Start Free Trial",
+            "globalPublishing": "Global Publishing Machine",
+            "watchGlobal": "Watch your listing go live across 100+ portals",
+            "globalLaunchComplete": "Global Launch Complete!",
+            "livePortals": "Live on 100+ portals • Reaching 50M+ monthly searchers",
+            "leadConversion": "24/7 Lead Conversion",
+            "leadConverted": "Lead Converted!",
+            "qualifiedAppointment": "Qualified appointment booked • Agent notified",
+            "neverMissLead": "Never Miss Another Lead"
+        }
+    },
+    "terms_condition": {
+		"header_terms_conditions": "CORALYTICS Terms and Conditions",
+		"description_terms": "We at CORALYTICS, a platform owned and operated by Coralytics International LLC, hereinafter referred to as \"CORALYTICS,\" \"we,\" \"us,\" or \"our,\" take your privacy seriously and are committed to protecting your personal information. This Privacy Policy (\"Policy\") describes how we collect, use, and disclose your personal information when you use the CORALYTICS website, mobile application, and all related services (collectively, the \"Services\").",
+		"get_started": "Get Started",
+		"introduction": "Introduction",
+		"desc_introduction": "We at CORALYTICS, a platform owned and operated by Coralytics International LLC, hereinafter referred to as \"CORALYTICS,\" \"we,\" \"us,\" or \"our,\" take your privacy seriously and are committed to protecting your personal information. This Privacy Policy (\"Policy\") describes how we collect, use, and disclose your personal information when you use the CORALYTICS website, mobile application, and all related services (collectively, the \"Services\").",
+		"Acceptance_Terms": "Acceptance of Terms",
+		"accessing_or_using_services": "By accessing or using the Services, you agree to be bound by these Terms. If you disagree with any part of these Terms, you may not use the Services. You represent and warrant that you are of legal age to enter into this agreement and have the full authority to do so.",
+		"account_registration_use": "Account Registration and Use",
+		"access_certain_features_of_services": "To access certain features of the Services, you may need to create an account. You are responsible for maintaining the confidentiality of your account information, including your password, and for all activity that occurs under your account. You agree to notify us immediately of any unauthorized use of your account or any other breach of security. We cannot and will not be liable for any loss or damage arising from your failure to comply with these obligations.",
+		"user_content": "User Content",
+		"services_may_allow_you_to_submit": "The Services may allow you to submit, upload, or post content (\"User Content\"). You retain all ownership rights to your User Content, but you grant us a non-exclusive, worldwide, perpetual, royalty-free license to use, reproduce, modify, publish, distribute, and display your User Content in connection with the Services. You represent and warrant that your User Content does not violate the rights of any third party and that you have all necessary permissions to grant us the licenses herein.",
+		"prohibited_content_activities": "Prohibited Content and Activities",
+		"uploading_posting_transmitting": "Uploading, posting, or transmitting any content that is illegal, harmful, threatening, abusive, harassing, defamatory, vulgar, obscene, hateful, or racially or ethnically offensive.",
+		"impersonating_person_entity": "Impersonating any person or entity, including us or our employees or representatives.",
+		"interfering_with_disrupting": "Interfering with or disrupting the Services or any servers or networks connected to the Services.",
+		"using_the_ervices_to_exploit": "Using the Services to exploit, harm, or defraud others.",
+		"violating_any_intellectual_property": "Violating any intellectual property rights or other rights of any third party.",
+		"attempting_to_gain_unauthorized": "Attempting to gain unauthorized access to the Services or any part thereof.",
+		"reserve_the_right_to_terminate": "We reserve the right to terminate your access to the Services for any reason, at any time, without notice.",
+		"intellectual_property": "Intellectual Property",
+		"the_services_and_their_content": "The Services and their content, including but not limited to text, graphics, logos, trademarks, and software, are owned by us or our licensors and are protected by intellectual property laws. You may not use any of our intellectual property without our express written permission.",
+		"disclaimer_of_warranties": "Disclaimer of Warranties",
+		"the_services_are_provided": "The Services are provided \"as is\" and without warranty of any kind, express or implied. We disclaim all warranties, including, but not limited to, warranties of merchantability, fitness for a particular purpose, and non-infringement. We do not warrant that the Services will be uninterrupted or error-free, or that any defects will be corrected.",
+		"limitation_of_liability": "Limitation of Liability",
+		"the_maximum_extent_permitted": "To the maximum extent permitted by law, we will not be liable for any direct, indirect, incidental, consequential, or punitive damages arising out of or in connection with the use of the Services, even if we have been advised of the possibility of such damages.",
+		"indemnification": "Indemnification",
+		"you_agree_to_indemnify_and_hold_us_harmless": "You agree to indemnify and hold us harmless from and against any and all claims, losses, damages, liabilities, costs, and expenses (including attorneys' fees) arising out of or in connection with your use of the Services or your violation of these Terms.",
+		"governing_law_and_dispute": "Governing Law and Dispute Resolution",
+		"terms_shall_be_governed": "These Terms shall be governed by and construed in accordance with the laws of the United Arab Emirates, without regard to its conflict of laws provisions. Any dispute arising out of or in connection with these Terms shall be submitted to the exclusive jurisdiction of the courts of Dubai, United Arab Emirates.",
+		"entire_agreement": "Entire Agreement",
+		"terms_constitute_the_entire_agreement": "These Terms constitute the entire agreement between you and us with respect to your use of the Services. Any prior or contemporaneous agreements, representations, and understandings, whether written or oral, are superseded by these Terms.",
+		"amendments": "Amendments",
+		"we_reserve_the_right_to_amend": "We reserve the right to amend these Terms at any time by posting the amended Terms on the Services. You are responsible for reviewing the Terms regularly. Your continued use of the Services after the posting of amended Terms constitutes your acceptance of such amendments.",
+		"contact_us": "13. Contact Us",
+		"if_you_have_any_questions_about_these": "If you have any questions about these Terms, please contact us at",
+		"date_of_last_update": "Date of Last Update:",
+		"increase_your_roi_with": "increase your ROI with Coralytics",
+		"let_s_talk_to_us": "Let’s talk to us, share your dream projects and we will transform it into reality"
+	},
+	"privacy_policy": {
+		"title": "Privacy Policy",
+		"subtitle": "At CORALYTICS, we take your privacy seriously and are committed to protecting your personal information. Learn how we collect, use, and safeguard your data.",
+		"lastUpdated": "Last updated: December 25, 2023",
+		"sections": {
+			"introduction": {
+				"title": "1. Introduction",
+				"content": "We at CORALYTICS, a platform owned and operated by Coralytics International LLC, hereinafter referred to as \"CORALYTICS,\" \"we,\" \"us,\" or \"our,\" take your privacy seriously and are committed to protecting your personal information. This Privacy Policy (\"Policy\") describes how we collect, use, and disclose your personal information when you use the CORALYTICS website, mobile application, and all related services (collectively, the \"Services\")."
+			},
+			"informationWeCollect": {
+				"title": "2. Information We Collect",
+				"content": "We collect various types of personal information from you when you use the Services, including:",
+				"pii": {
+					"title": "Personally Identifiable Information (PII)",
+					"description": "Information that can be used to identify you directly, such as your name, email address, phone number, mailing address, IP address, and device ID."
+				},
+				"npii": {
+					"title": "Non-Personally Identifiable Information (NPII)",
+					"description": "Information that cannot be used to identify you directly, such as your browser type, language preferences, usage data, and device information."
+				}
+			},
+			"howWeUse": {
+				"title": "3. How We Use Your Information",
+				"content": "We use your personal information for various purposes, including:",
+				"purposes": [
+					"To provide and operate the Services",
+					"To personalize your experience",
+					"To send you important information about the Services and updates",
+					"To respond to your inquiries and requests",
+					"To improve the Services",
+					"To analyze how you use the Services",
+					"To comply with legal requirements"
+				]
+			},
+			"howWeShare": {
+				"title": "4. How We Share Your Information",
+				"content": "We may share your personal information with third-party service providers who help us operate the Services. These service providers are bound by contractual obligations to keep your information confidential and to use it only for the purposes we authorize.",
+				"legal": "We may also disclose your personal information if required by law, such as in response to a court order or subpoena."
+			},
+			"yourChoices": {
+				"title": "5. Your Choices",
+				"content": "You have certain choices regarding your personal information, including:",
+				"choices": [
+					"You can access and update your personal information in your account settings.",
+					"You can unsubscribe from marketing emails by clicking the \"unsubscribe\" link in the email.",
+					"You can delete your account by contacting us at info@coralytics.com"
+				]
+			},
+			"dataSecurity": {
+				"title": "6. Data Security",
+				"content": "We take reasonable measures to protect your personal information from unauthorized access, disclosure, alteration, or destruction. However, no method of transmission over the internet or method of electronic storage is 100% secure. Therefore, we cannot guarantee the absolute security of your personal information."
+			},
+			"internationalTransfers": {
+				"title": "7. International Transfers",
+				"content": "Your personal information may be transferred to and stored in countries outside of your country. These countries may have different data protection laws than your country. By using the Services, you consent to the transfer of your personal information to these countries."
+			},
+			"childrensPrivacy": {
+				"title": "8. Children's Privacy",
+				"content": "The Services are not intended for children under the age of 13. We do not knowingly collect personal information from children under the age of 13. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact us at info@coralytics.com. We will take steps to remove the information from our systems."
+			},
+			"changesToPolicy": {
+				"title": "9. Changes to this Policy",
+				"content": "We may update this Policy from time to time. We will notify you of any changes by posting the new Policy on the Services. You are advised to review this Policy periodically for any changes."
+			},
+			"contactUs": {
+				"title": "10. Contact Us",
+				"content": "If you have any questions about this Policy, please contact us:",
+				"email": "info@coralytics.com"
+			}
+		},
+		"footer": {
+			"company": "CORALYTICS",
+			"tagline": "Your privacy is our priority",
+			"dateLabel": "Date of Last Update:"
+		}
+	}
+}
